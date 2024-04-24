@@ -1,7 +1,5 @@
 Interface:
-  - Entry for speciying subreddit. 
   - Get body of selected title.
-  - Button for clearing database.
   - Allow selection of specified videolink.
   - Allow selection of preinstalled videos. 
   - Combine text, reading and backgroundvideo to one video.
