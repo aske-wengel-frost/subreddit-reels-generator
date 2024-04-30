@@ -1,5 +1,4 @@
 Interface:
-  - Get body of selected title.
-  - Allow selection of specified videolink.
-  - Allow selection of preinstalled videos. 
-  - Combine text, reading and backgroundvideo to one video.
+  - Make button to open speicfied video-file.
+  - Create button for full-video-creation
+    - Combine text, reading and backgroundvideo to one video.
