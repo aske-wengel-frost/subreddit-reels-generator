@@ -2,3 +2,4 @@ Interface:
   - Make button to open speicfied video-file.
   - Create button for full-video-creation
     - Combine text, reading and backgroundvideo to one video.
+  - Create verbose-info for yt-download in interface.
